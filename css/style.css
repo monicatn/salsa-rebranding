@@ -88,6 +88,9 @@ hr {
 	top: 0;
 	width: 100%
 }
+.nav-container {
+	height: 50px;
+}
 .navbar-custom {
 	margin-bottom: 0;
 	background-color: #121d1f;
