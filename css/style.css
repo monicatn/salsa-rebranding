@@ -392,9 +392,11 @@ ol.type li a:hover {
 	padding: 5px;
 	color: #E87E04;
 }
+
 .project-description1 {
 	font-family: 'Anonymous Pro', monospace;
-	font-size: 34px;
+	font-size: 32px;
+	font-weight: 600;
 	margin: 100px auto 0px auto;
     max-width: 1050px;
     text-align: center;  
